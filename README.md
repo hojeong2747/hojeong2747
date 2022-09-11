@@ -1,4 +1,4 @@
-### 안녕하세요. 성장 중인 개발자 한호정입니다.✨
+### 안녕하세요. 꾸준히 노력하며 성장 중인 한호정입니다.✨
 
 <!--
 **hojeong2747/hojeong2747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
