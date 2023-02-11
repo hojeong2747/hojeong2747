@@ -1,21 +1,27 @@
-### 안녕하세요. 꾸준히 노력하며 성장 중인 한호정입니다.✨
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhojeong2747&count_bg=%23BBBBBB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today+%2F+total&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
+## 💬 Hi, I'm Hojeong 👋
 
-<!--
-**hojeong2747/hojeong2747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack 🛠️
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=black">
+<img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=VMware&logoColor=black">
+<br>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌏 Github Stats
+![hojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojeong2747&show_icons=true&theme=dracula) 
