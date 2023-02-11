@@ -22,4 +22,4 @@
 
 
 ## 🌏 Github Stats
-[![Hojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojeong2747)](https://github.com/hojeong2747/github-readme-stats)
+[![hojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojeong2747)](https://github.com/hojeong2747/github-readme-stats)
