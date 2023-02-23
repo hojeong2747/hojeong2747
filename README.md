@@ -1,5 +1,5 @@
 ## 💬 About me
-🌱 I'm interested in Front-end development based on Android App and Back-end development.<br>
+🌱 I'm interested in Front-end development based on Android App and Back-end development based on Spring Boot framework.<br>
 ❤️ I like to study algorithm.
 
 ## 🛠️ Tech Stack 
