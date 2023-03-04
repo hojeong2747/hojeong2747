@@ -1,5 +1,5 @@
 ## 💬 About me
-🌱 I'm interested in Front-end development based on Android App 
+🌱 I'm interested in Front-end development based on Android App.<br>
 🌱 And also I'm currently interested in Back-end development based on Spring Boot framework.<br>
 ❤️ I love to code and study algorithm.
 
