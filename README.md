@@ -6,6 +6,7 @@
 ❤️ I love to code and study algorithm.<br>
 
 ## 🛠️ Tech Stack 
+<div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
@@ -24,6 +25,7 @@
 <br>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+  </div>
 
 ## 🌏 Github Stats
 ![hojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojeong2747&show_icons=true&theme=omni)
