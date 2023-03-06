@@ -1,8 +1,13 @@
+<div align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhojeong2747%2Fhit-counter&count_bg=%23D1D1D1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today%2Ftotal&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
 ## 💬 About me
+<div align="center">
 ✨ I'm interested in Front-end development based on Android App.<br>
 🌱 And also I'm currently interested in Back-end development based on Spring Boot framework.<br>
 ❤️ I love to code and study algorithm.<br>
+</div>
 
 ## 🛠️ Tech Stack 
 <div align="center">
@@ -27,4 +32,6 @@
 </div>
 
 ## 🌏 Github Stats
+<div align="center">
 ![hojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojeong2747&show_icons=true&theme=omni)
+</div>
