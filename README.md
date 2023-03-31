@@ -11,7 +11,9 @@
 ❤️ I love to code and study algorithm.<br>
 ​
 ## 🛠️ Tech Stack 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
 <br>
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
