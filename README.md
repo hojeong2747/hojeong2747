@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 <br>
