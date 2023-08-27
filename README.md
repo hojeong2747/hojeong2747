@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Vue.js-4FC08DF?style=flat-square&logo=Vue.jst&logoColor=white"/>  
 
 <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
