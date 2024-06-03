@@ -6,9 +6,9 @@
 
 
 ### 💬 About me
-✨ I'm interested in Back-end development based on Spring Boot framework.<br>
-🌱 I'm currently majoring in Computer Science at Dongduk Women's University.<br>
-❤️ I love to code and study algorithm.<br>
+🌱 I work as a developer at a B2B company developing a platform.<br>
+✨ I am doing backend development using spring framework.<br>
+❤️ I love to code and I like creating IT services together with people.<br>
 ​
 ### 🛠️ Tech Stack 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
