@@ -2,8 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FDF5E6&height=250&section=header&text=Han%20Ho%20%20Jeong's%20Github&fontSize=50&animation=fadeIn)
 
-​[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhojeong2747%2Fhit-counter&count_bg=%23D1D1D1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today%2Ftotal&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## 💬 About me
 🌱 I work as a backend developer at a B2B company developing a platform.<br>
 ✨ I majored in computer science at Dongduk Women's University.<br>
