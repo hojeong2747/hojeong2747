@@ -1,6 +1,6 @@
 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=FDF5E6&height=250&section=header&text=Han%20Ho%20%20Jeong's%20Github&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FDF5E6&height=250&section=header&text=Hojeong%20%20Han's%20Github&fontSize=50&animation=fadeIn)
 
 ## 💬 About me
 🌱 I work as a backend developer at a B2B company developing a platform.<br>
